@@ -1,0 +1,148 @@
+@media (max-width:768px){
+	.section1{
+	width: 100%;
+	height: 500px;
+	display: block;
+	justify-content: space-between;
+	margin-top: 30px;
+	}
+	.section1 .half1, .half2{
+		margin: 0;
+		width: 100%;
+		padding: 10px;
+	}
+	.section1 .half1{
+		margin: 0;
+	}
+	.section1 .half2{
+		margin: 0;
+	}
+	.section2{
+	width: 100%;
+	height: 500px;
+	display: block;
+	justify-content: space-between;
+	margin-top: 300px;
+	}
+	.section2 .half1, .half2{
+		margin: 0;
+		width: 100%;
+		padding: 10px;
+	}
+	.section2 .half1{
+		margin: 0;
+	}
+	.section2 .half2{
+		margin: 0;
+	}
+	.section3{
+	width: 100%;
+	height: 500px;
+	display: block;
+	justify-content: space-between;
+	margin-top: 380px;
+	}
+	.section3 .half1, .half2{
+		margin: 0;
+		width: 100%;
+		padding: 10px;
+	}
+	.section3 .half1{
+		margin: 0;
+	}
+	.section3 .half2{
+		margin: 0;
+	}
+	.section4{
+	width: 100%;
+	height: 500px;
+	display: block;
+	justify-content: space-between;
+	margin-top: 250px;
+	}
+	.section4 .half1, .half2{
+		margin: 0;
+		width: 100%;
+		padding: 10px;
+	}
+	.section4 .half1{
+		margin: 0;
+	}
+	.section4 .half2{
+		margin: 0;
+	}
+}
+@media (max-width:550px){
+	.section1{
+	width: 100%;
+	height: 500px;
+	display: block;
+	justify-content: space-between;
+	margin-top: 30px;
+	}
+	.section1 .half1, .half2{
+		margin: 0;
+		width: 100%;
+		padding: 10px;
+	}
+	.section1 .half1{
+		margin: 0;
+	}
+	.section1 .half2{
+		margin: 0;
+	}
+	.section2{
+	width: 100%;
+	height: 500px;
+	display: block;
+	justify-content: space-between;
+	margin-top: 150px;
+	}
+	.section2 .half1, .half2{
+		margin: 0;
+		width: 100%;
+		padding: 10px;
+	}
+	.section2 .half1{
+		margin: 0;
+	}
+	.section2 .half2{
+		margin: 0;
+	}
+	.section3{
+	width: 100%;
+	height: 500px;
+	display: block;
+	justify-content: space-between;
+	margin-top: 200px;
+	}
+	.section3 .half1, .half2{
+		margin: 0;
+		width: 100%;
+		padding: 10px;
+	}
+	.section3 .half1{
+		margin: 0;
+	}
+	.section3 .half2{
+		margin: 0;
+	}
+	.section4{
+	width: 100%;
+	height: 500px;
+	display: block;
+	justify-content: space-between;
+	margin-top: 250px;
+	}
+	.section4 .half1, .half2{
+		margin: 0;
+		width: 100%;
+		padding: 10px;
+	}
+	.section4 .half1{
+		margin: 0;
+	}
+	.section4 .half2{
+		margin: 0;
+	}
+}
